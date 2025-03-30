@@ -1,11 +1,9 @@
 <h2> Olá, meu nome é Luan!</h2>
 <p align="left"> 
   
-  - 🎓 Estudo Análise e Desenvolvimento de Sistemas na UFBRA
-  
   - 👽 Faço projetos <b>full-stack</b>
   
-  - 🌱 Estou aprendendo mais sobre React e Express
+  - 🌱 Estou aprendendo mais sobre Python
 </p>
 
 <h2>🚀 Minhas Skills </h2>
